@@ -27,23 +27,23 @@ Author URI : http://www.markups.io/
 .mu-faq-content .panel-title a>span,
 .mu-menu ul li a:hover,
 .mu-menu ul li a:focus {
-	color: #ff5a60;
+	color: #f1c232;
 }
 
 .mu-social-media a:hover,
 .mu-social-media a:focus,
 .mu-contact-right-single .mu-icon {
-	border: 1px solid #ff5a60;
-	color: #ff5a60;
+	border: 1px solid #f1c232;
+	color: #f1c232;
 }
 
 .mu-contact-form .form-control:focus {
-	border: 1px solid #ff5a60;    
+	border: 1px solid #f1c232;    
 } 
 
 .mu-send-msg-btn {
-	border: 1px solid #ff5a60;
-	background-color: #ff5a60;
+	border: 1px solid #f1c232;
+	background-color: #f1c232;
 }
 
 .mu-header-overlay,
@@ -53,19 +53,19 @@ Author URI : http://www.markups.io/
 .mu-title-dot::after,
 .mu-feature-btn,
 .mu-video-overlay {
-	background-color: #ff5a60;
+	background-color: #f1c232;
 }
 .mu-feature-content-right .media:hover {
-	border-bottom: 1px solid #ff5a60;
+	border-bottom: 1px solid #f1c232;
 }
 
 .mu-apps-screenshot-slider .slick-next,
 .mu-apps-screenshot-slider .slick-prev {
-	border: 2px solid #ff5a60;
-	color: #ff5a60;
+	border: 2px solid #f1c232;
+	color: #f1c232;
 }
 
 .mu-faq-content .panel-default > .panel-heading + .panel-collapse > .panel-body {
-	border-top-color: #ff5a60;
+	border-top-color: #f1c232;
 
 }
